@@ -1,4 +1,4 @@
 package tmit.webbanyaszat;
 
-public class FIleReader {
+public class FileReader {
 }
